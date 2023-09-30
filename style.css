@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+}
+
+header{
+    height: 100px;
+    background-color: #93B5C9;
+}
+
+section{
+    height: 250px;
+    background-color: #AB2849;
+}
+
+nav{
+    height: 100px;
+    background-color: #AB2849;
+    width: 85%;
+    float: none;
+    margin: 20px 100px 20px 100px;
+}
+
+aside{
+    height: 100px;
+    background-color: #AB2849;
+    width: 85%;
+    float: none;
+    margin: 20px 100px 20px 100px;
+}
+
+div{
+    border: 1px solid white;
+    height: 100px;
+    max-width: 2px;
+    padding: 1;
+    margin: 0 auto 0 auto;
+    background-color: white;
+}
+
+footer{
+    height: 80px;
+    background-color: #AB2849;
+    margin: 20px 20px 10px 20px;
+    clear:both
+}
